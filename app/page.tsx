@@ -9,7 +9,7 @@ import Container from "@/components/layout/Container";
 
 export default function Home() {
   return (
-    <Container className="flex min-h-screen flex-col items-center justify-between gap-6 p-24">
+    <Container className="flex min-h-screen flex-col items-center justify-between gap-6 ">
       <HeroHome />
       <Features />
       <ShopByBrands />
